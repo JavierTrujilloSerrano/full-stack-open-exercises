@@ -49,6 +49,7 @@ function App() {
       .catch((error) => {
         console.error("Error fetching country:", error.message);
       });
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [filter]);
 
   const handleFilterChange = (event) => {
