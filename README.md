@@ -15,3 +15,8 @@ The main focus is on building single page applications with ReactJS that use RES
     - courseinfo as folder exercise 1.1 - 1.5
     - unicafe as folder exercise 1.6 - 1.11
     - anecdotes as folder exercise 1.12 - 1.14
+
+### Solutions of part 2 exercises to this folder, one app per folder
+    - course-info-2.1 as folder exercise 2.1 - 2.5
+    - telephone-directory as folder exercise 2.06 - 2.17
+    - country-data as folder exercise 2.18 - 2.20
